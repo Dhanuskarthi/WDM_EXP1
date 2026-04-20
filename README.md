@@ -121,10 +121,10 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table with normalized values on Weka.
 
 ### OUTPUT:
-###EMPLOYEE
+## EMPLOYEE
 <img width="1920" height="1200" alt="Screenshot (37)" src="https://github.com/user-attachments/assets/f14adb93-6cb1-49b2-a687-0174728ab843" />
 
-###WEATHER
+## WEATHER
 <img width="1920" height="1200" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/7fc169b6-0899-4d57-a4d0-2e52aeb5e3c4" />
 
 ### RESULT: 
